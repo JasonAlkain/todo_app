@@ -1,3 +1,14 @@
+/**
+ * ==============================================================================
+ * 
+ * This is just a fun little script I made for fun! 
+ * 
+ * @author: Zachary Aars
+ * 
+ * ==============================================================================
+ */
+
+
 function TestStringify() {
     // create the JSON object
     var jsonOBJ = { "FirstName": "Michael", "LastName": "Westen", "Gender": "Male", "Age": 32, "City": "Miami", "State": "Florida", "Occupation": "Burned" };
